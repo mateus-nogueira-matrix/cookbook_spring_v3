@@ -1,0 +1,8 @@
+A nova versão do Spring Tools 4.17.0 (e as extensões correspondentes para VSCode na versão 1.41.0) apresenta suporte experimental para várias validações específicas do Spring e correções rápidas correspondentes.
+
+Exemplos para essas validações são:
+• injeções de campo (usando @Autowired em um campo) onde os parâmetros do construtor devem ser usados
+• anotações @Autowired inúteis em construtores que podem ser removidas
+• o uso de @RequestMapping, onde anotações de mapeamento específicas como @GetMapping devem ser usadas
+
+Dê uma olhada nas preferências para ver a lista completa de validações que as ferramentas fornecem.
