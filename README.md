@@ -20,11 +20,11 @@
 13. <a href="13.md" >Projeto Blog Pessoal - Relacionamento entre Classes - Recurso Tema - Parte 01</a>
 14. <a href="14.md" >Projeto Blog Pessoal - Relacionamento entre Classes - Recurso Tema - Parte 02</a>
 15. <a href="15.md" >Introdução a Spring Security</a>
-16. <a href="16.md" >Projeto Blog Pessoal - Spring Security - Ecossistema do Usuário</a>
+16. <a href="16.md" >Projeto Blog Pessoal - Spring Security - Ecossistema do Usuário - Parte 01</a>
 17. <a href="17.md" >Projeto Blog Pessoal - Spring Security - Ecossistema da Segurança - Parte 01</a>
 18. <a href="18.md" >Projeto Blog Pessoal - Spring Security - Ecossistema da Segurança - Parte 02</a>
 19. <a href="19.md" >Projeto Blog Pessoal - Spring Security - Ecossistema da Segurança - Parte 03</a>
-20. <a href="20.md" >Projeto Blog Pessoal - Spring Security - Classe de Serviço</a>
+20. <a href="20.md" >Projeto Blog Pessoal - Spring Security - Ecossistema do Usuário - Parte 02</a>
 21. <a href="21.md" >Introdução a Spring Testing + JUnit</a>
 22. <a href="22.md" >Projeto Blog Pessoal - Teste Unitário - Configurando o ambiente de testes</a>
 23. <a href="23.md" >Projeto Blog Pessoal - Teste Unitário - Testes na Camada Controller</a>
