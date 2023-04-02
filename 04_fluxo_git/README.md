@@ -7,6 +7,7 @@
 
 1. <a href="01_fluxo_git.md" >Trabalhando em Equipe com o Github</a>
 2. <a href="02_github_organizations.md" >Guia de Configuração de uma Organização no Github - Git Organization</a>
+3. <a href="03_deploy_organizacao_render.md" >Deploy de uma Organização no Render</a>
 
 <br /><br />
 	
