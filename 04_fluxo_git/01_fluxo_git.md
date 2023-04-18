@@ -136,11 +136,11 @@ Para manter o Projeto Integrador separado dos outros projetos criados em aula, v
 
 1. No STS, crie o projeto Spring com o nome do seu projeto, como mostra a figura abaixo:
 
-<div align="center"><img src="https://i.imgur.com/u6Kewpk.png" title="source: imgur.com" width="50%"/></div>
+<div align="center"><img src="https://i.imgur.com/Sh2FtgU.png" title="source: imgur.com" width="50%"/></div>
 
 2. Adicione as **Dependências do Projeto**, como mostra a figura abaixo:
 
-<div align="center"><img src="https://i.imgur.com/GlgVWZe.png" title="source: imgur.com" width="50%"/></div>
+<div align="center"><img src="https://i.imgur.com/EjawIB0.png" title="source: imgur.com" width="50%"/></div>
 
 3. Configure o Banco de Dados no arquivo **application.properties**. Não esqueça de configurar o **nome do Banco de dados** com o **nome do seu projeto** e **alterar a senha do usuário root** de acordo com a senha do MySQL do seu computador.
 
@@ -160,7 +160,6 @@ spring.jpa.properties.jakarta.persistence.sharedCache.mode=ENABLE_SELECTIVE
 spring.jackson.date-format=yyyy-MM-dd HH:mm:ss
 spring.jackson.time-zone=Brazil/East
 ```
-**Observação:** A terceira linha do arquivo **application.properties**  está dividida em 2 linhas no pdf. No STS mantenha tudo em uma única linha.
 
 4. Execute a aplicação e verifique se o Banco de dados foi criado.
 
