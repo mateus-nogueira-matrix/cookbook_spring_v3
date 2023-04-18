@@ -147,14 +147,15 @@ Para manter o Projeto Integrador separado dos outros projetos criados em aula, v
 ```properties
 spring.jpa.hibernate.ddl-auto=update
 spring.jpa.database=mysql
-spring.datasource.url=jdbc:mysql://localhost/db_nomedoprojeto?
-createDatabaseIfNotExist=true&serverTimezone=America/Sao_Paulo&useSSl=false
+spring.datasource.url=jdbc:mysql://localhost/db_projetointegrador?createDatabaseIfNotExist=true&serverTimezone=America/Sao_Paulo&useSSl=false
 spring.datasource.username=root
 spring.datasource.password=root
+spring.datasource.driver-class-name=com.mysql.cj.jdbc.Driver
 
 spring.jpa.show-sql=true
+spring.jpa.properties.hibernate.dialect = org.hibernate.dialect.MySQLDialect
 
-spring.jpa.properties.hibernate.dialect = org.hibernate.dialect.MySQL8Dialect
+spring.jpa.properties.jakarta.persistence.sharedCache.mode=ENABLE_SELECTIVE
 
 spring.jackson.date-format=yyyy-MM-dd HH:mm:ss
 spring.jackson.time-zone=Brazil/East
