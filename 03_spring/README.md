@@ -37,7 +37,7 @@
 2. <a href="local_date_time.md">Data e Hora - Java</a>
 3. <a href="guia_jpa.md">Guia do JPA</a>
 4. <a href="uml.md">Diagrama de Classes</a>
-5. <a href="../05_fluxo_git/03_deploy_organizacao_render.md" >Projeto Integrador - Deploy no Render - Organização no Github</a>
+5. <a href="../04_fluxo_git/03_deploy_organizacao_render.md" >Projeto Integrador - Deploy no Render - Organização no Github</a>
 
 <br /><br />
 	
